@@ -1,0 +1,59 @@
+
+.Usernamepwd
+{
+    border:solid gray;
+    display:block;
+    width:20%;
+   
+}
+.Password{
+    border:solid gray;
+    display:block;
+    width:20%;
+   
+}
+
+body
+{
+    background-color: gray;
+    text-align: center;
+    
+}
+.Loginclass{
+    border: solid gray;
+    
+}
+.forgotpwd{
+    border: solid gray;
+}
+    
+a
+{
+    color: yellow;
+}
+
+.MainContainer
+{
+    border: solid gray;
+    background-color: gray;
+    justify-content: space-between;
+   }
+.username
+{
+    height: 50px;
+}
+.password
+{
+    height: 50px;
+}
+
+.Loginclassbtn{
+    height: 50px;
+    background-color: lightskyblue;
+    padding: 15px 32px;
+    width:10%
+}
+
+html{
+    justify-content: center;
+}
